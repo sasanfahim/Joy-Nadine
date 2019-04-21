@@ -1,0 +1,9 @@
+  
+
+
+body{ background:blue }
+    .nav { background-color:hotpink;}
+    .nav a:hover {background:beige; color:black}
+    #menu5,#menu1,#menu2,#menu3,#menu4{ background:lightyellow;}
+    .nav-link { color: black }
+
